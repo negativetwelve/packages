@@ -1,7 +1,10 @@
 # Projects
 
-Name: Mark Miyashita
-GitHub: [@negativetwelve](https://github.com/negativetwelve)
+-------  |-------
+Name     | Mark Miyashita
+Website  | [markmiyashita.com](http://markmiyashita.com)
+GitHub   | [@negativetwelve](https://github.com/negativetwelve)
+LinkedIn | [linkedin.com/in/markmiyashita](https://linkedin.com/in/markmiyashita)
 
 ## Creator
 
