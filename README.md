@@ -1,6 +1,7 @@
 # Projects
 
--------  |-------
+Contact  | Link
+---------|-------
 Name     | Mark Miyashita
 Website  | [markmiyashita.com](http://markmiyashita.com)
 GitHub   | [@negativetwelve](https://github.com/negativetwelve)
