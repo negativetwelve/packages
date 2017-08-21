@@ -98,7 +98,7 @@ These are projects that I help maintain. This includes new features, new release
 
 Package | Version | Downloads
 --------|---------|----------
-[`react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event] | [![npm](https://img.shields.io/npm/dt/react-native-shake-event.svg)][npm-react-native-shake-event]
+[`jadsonlourenco/react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event] | [![npm](https://img.shields.io/npm/dt/react-native-shake-event.svg)][npm-react-native-shake-event]
 
 [gh-react-native-shake-event]: https://github.com/jadsonlourenco/react-native-shake-event
 
@@ -110,17 +110,17 @@ A few commits here or there, this helps me track open source projects I've contr
 
 Package | Version
 --------| -------
-[`javascript`][gh-airbnb-javascript] | N/A
-[`react-native`][gh-react-native] | [![npm](https://img.shields.io/npm/v/react-native.svg)][npm-react-native]
-[`react-native-fbsdk`][gh-react-native-fbsdk] | [![npm](https://img.shields.io/npm/v/react-native-fbsdk.svg)][npm-react-native-fbsdk]
-[`react-native-idle-timer`][gh-react-native-idle-timer] | [![npm](https://img.shields.io/npm/v/react-native-idle-timer.svg)][npm-react-native-idle-timer]
-[`react-native-intercom`][gh-react-native-intercom] | [![npm](https://img.shields.io/npm/v/react-native-intercom.svg)][npm-react-native-intercom]
-[`react-native-video`][gh-react-native-video] | [![npm](https://img.shields.io/npm/v/react-native-video.svg)][npm-react-native-video]
+[`airbnb/javascript`][gh-airbnb-javascript] | N/A
+[`facebook/react-native`][gh-react-native] | [![npm](https://img.shields.io/npm/v/react-native.svg)][npm-react-native]
+[`facebook/react-native-fbsdk`][gh-react-native-fbsdk] | [![npm](https://img.shields.io/npm/v/react-native-fbsdk.svg)][npm-react-native-fbsdk]
+[`marcshilling/react-native-idle-timer`][gh-react-native-idle-timer] | [![npm](https://img.shields.io/npm/v/react-native-idle-timer.svg)][npm-react-native-idle-timer]
+[`tinycreative/react-native-intercom`][gh-react-native-intercom] | [![npm](https://img.shields.io/npm/v/react-native-intercom.svg)][npm-react-native-intercom]
+[`react-native-community/react-native-video`][gh-react-native-video] | [![npm](https://img.shields.io/npm/v/react-native-video.svg)][npm-react-native-video]
 
 [gh-airbnb-javascript]: https://github.com/airbnb/javascript
 [gh-react-native]: https://github.com/facebook/react-native
 [gh-react-native-fbsdk]: https://github.com/facebook/react-native-fbsdk
-[gh-react-native-idle-timer]: https://github.com/tinycreative/react-native-idle-timer
+[gh-react-native-idle-timer]: https://github.com/marcshilling/react-native-idle-timer
 [gh-react-native-intercom]: https://github.com/tinycreative/react-native-intercom
 [gh-react-native-video]: https://github.com/react-native-community/react-native-video
 
