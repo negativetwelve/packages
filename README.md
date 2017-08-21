@@ -98,7 +98,7 @@ These are projects that I help maintain. This includes new features, new release
 
 Package | Version | Downloads
 --------|---------|----------
-[`react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event]
+[`react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event] | [![npm](https://img.shields.io/npm/dt/react-native-shake-event.svg)][npm-react-native-shake-event]
 
 [gh-react-native-shake-event]: https://github.com/jadsonlourenco/react-native-shake-event
 
