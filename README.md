@@ -11,7 +11,6 @@ Package | Version | Downloads
 [`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
 [`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
 
-[/]: Jolt
 [gh-babel-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/babel-preset-jolt
 [gh-eslint-config-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/eslint-config-jolt
 [gh-jest-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/jest-preset-jolt
@@ -39,7 +38,6 @@ Package | Version | Downloads
 [`jest-plugins`][gh-jest-plugins] | [![npm](https://img.shields.io/npm/v/jest-plugins.svg)][npm-jest-plugins] | [![npm](https://img.shields.io/npm/dt/jest-plugins.svg)][npm-jest-plugins]
 [`jest-plugins-recommended`][gh-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/v/jest-plugins-recommended.svg)][npm-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/dt/jest-plugins-recommended.svg)][npm-jest-plugins-recommended]
 
-[/]: Jest-Plugins
 [gh-jest-plugin-action]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-action
 [gh-jest-plugin-console-matchers]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-console-matchers
 [gh-jest-plugin-context]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-context
