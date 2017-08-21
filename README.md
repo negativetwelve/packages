@@ -60,6 +60,14 @@ Package | Version | Downloads
 
 ## Maintainer
 
+Package | Version | Downloads
+--------|---------|----------
+[`react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event]
+
+[gh-react-native-shake-event]: https://github.com/jadsonlourenco/react-native-shake-event
+
+[npm-react-native-shake-event]: https://www.npmjs.com/package/react-native-shake-event
+
 ## Contributor
 
 A few commits here or there, this helps me track open source projects I've contributed to.
