@@ -11,6 +11,31 @@ LinkedIn | [linkedin.com/in/markmiyashita](https://linkedin.com/in/markmiyashita
 
 These are projects that I have created and released to the open source community.
 
+### React Native Modules
+
+Package | Version | Downloads
+--------|---------|----------
+[`react-native-amplitude-sdk`][gh-react-native-amplitude-sdk] | [![npm](https://img.shields.io/npm/v/react-native-amplitude-sdk.svg)][npm-react-native-amplitude-sdk] | [![npm](https://img.shields.io/npm/dt/react-native-amplitude-sdk.svg)][npm-react-native-amplitude-sdk]
+[`react-native-heap-analytics`][gh-react-native-heap-analytics] | [![npm](https://img.shields.io/npm/v/react-native-heap-analytics.svg)][npm-react-native-heap-analytics] | [![npm](https://img.shields.io/npm/dt/react-native-heap-analytics.svg)][npm-react-native-heap-analytics]
+[`react-native-instabug-sdk`][gh-react-native-instabug-sdk] | [![npm](https://img.shields.io/npm/v/react-native-instabug-sdk.svg)][npm-react-native-instabug-sdk] | [![npm](https://img.shields.io/npm/dt/react-native-instabug-sdk.svg)][npm-react-native-instabug-sdk]
+[`react-native-lookback`][gh-react-native-lookback] | [![npm](https://img.shields.io/npm/v/react-native-lookback.svg)][npm-react-native-lookback] | [![npm](https://img.shields.io/npm/dt/react-native-lookback.svg)][npm-react-native-lookback]
+[`react-native-segment-io`][gh-react-native-segment-io] | [![npm](https://img.shields.io/npm/v/react-native-segment-io.svg)][npm-react-native-segment-io] | [![npm](https://img.shields.io/npm/dt/react-native-segment-io.svg)][npm-react-native-segment-io]
+[`react-native-ux-cam`][gh-react-native-ux-cam] | [![npm](https://img.shields.io/npm/v/react-native-ux-cam.svg)][npm-react-native-ux-cam] | [![npm](https://img.shields.io/npm/dt/react-native-ux-cam.svg)][npm-react-native-ux-cam]
+
+[gh-react-native-amplitude-sdk]: https://github.com/negativetwelve/react-native-amplitude-sdk
+[gh-react-native-heap-analytics]: https://github.com/negativetwelve/react-native-heap-analytics
+[gh-react-native-instabug-sdk]: https://github.com/negativetwelve/react-native-instabug-sdk
+[gh-react-native-lookback]: https://github.com/negativetwelve/react-native-lookback
+[gh-react-native-segment-io]: https://github.com/negativetwelve/react-native-segment-io
+[gh-react-native-ux-cam]: https://github.com/negativetwelve/react-native-ux-cam
+
+[npm-react-native-amplitude-sdk]: https://www.npmjs.com/package/react-native-amplitude-sdk
+[npm-react-native-heap-analytics]: https://www.npmjs.com/package/react-native-heap-analytics
+[npm-react-native-instabug-sdk]: https://www.npmjs.com/package/react-native-instabug-sdk
+[npm-react-native-lookback]: https://www.npmjs.com/package/react-native-lookback
+[npm-react-native-segment-io]: https://www.npmjs.com/package/react-native-segment-io
+[npm-react-native-ux-cam]: https://www.npmjs.com/package/react-native-ux-cam
+
 ### Jolt
 
 Package | Version | Downloads
