@@ -36,6 +36,22 @@ Package | Version | Downloads
 [npm-react-native-segment-io]: https://www.npmjs.com/package/react-native-segment-io
 [npm-react-native-ux-cam]: https://www.npmjs.com/package/react-native-ux-cam
 
+### React Native Package
+
+Package | Version | Downloads
+--------|---------|----------
+[`react-native-module-check`][gh-react-native-module-check] | [![npm](https://img.shields.io/npm/v/react-native-module-check.svg)][npm-react-native-module-check] | [![npm](https://img.shields.io/npm/dt/react-native-module-check.svg)][npm-react-native-module-check]
+[`react-native-module-guard`][gh-react-native-module-guard] | [![npm](https://img.shields.io/npm/v/react-native-module-guard.svg)][npm-react-native-module-guard] | [![npm](https://img.shields.io/npm/dt/react-native-module-guard.svg)][npm-react-native-module-guard]
+[`react-native-package`][gh-react-native-package] | [![npm](https://img.shields.io/npm/v/react-native-package.svg)][npm-react-native-package] | [![npm](https://img.shields.io/npm/dt/react-native-package.svg)][npm-react-native-package]
+
+[gh-react-native-module-check]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-check
+[gh-react-native-module-guard]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-guard
+[gh-react-native-package]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-package
+
+[npm-react-native-module-check]: https://www.npmjs.com/package/react-native-module-check
+[npm-react-native-module-guard]: https://www.npmjs.com/package/react-native-module-guard
+[npm-react-native-package]: https://www.npmjs.com/package/react-native-package
+
 ### Jolt
 
 Package | Version | Downloads
