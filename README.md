@@ -60,6 +60,7 @@ Package | Version | Downloads
 [`eslint-config-jolt`][gh-eslint-config-jolt] | [![npm](https://img.shields.io/npm/v/eslint-config-jolt.svg)][npm-eslint-config-jolt] | [![npm](https://img.shields.io/npm/dt/eslint-config-jolt.svg)][npm-eslint-config-jolt]
 [`jest-preset-jolt`][gh-jest-preset-jolt] | [![npm](https://img.shields.io/npm/v/jest-preset-jolt.svg)][npm-jest-preset-jolt] | [![npm](https://img.shields.io/npm/dt/jest-preset-jolt.svg)][npm-jest-preset-jolt]
 [`jolt-cli`][gh-jolt-cli] | [![npm](https://img.shields.io/npm/v/jolt-cli.svg)][npm-jolt-cli] | [![npm](https://img.shields.io/npm/dt/jolt-cli.svg)][npm-jolt-cli]
+[`jolt-config`][gh-jolt-config] | [![npm](https://img.shields.io/npm/v/jolt-config.svg)][npm-jolt-config] | [![npm](https://img.shields.io/npm/dt/jolt-config.svg)][npm-jolt-config]
 [`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
 [`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
 
@@ -67,6 +68,7 @@ Package | Version | Downloads
 [gh-eslint-config-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/eslint-config-jolt
 [gh-jest-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/jest-preset-jolt
 [gh-jolt-cli]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-cli
+[gh-jolt-config]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-config
 [gh-jolt-core]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-core
 [gh-jolt-scripts]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-scripts
 
@@ -74,6 +76,7 @@ Package | Version | Downloads
 [npm-eslint-config-jolt]: https://www.npmjs.com/package/eslint-config-jolt
 [npm-jest-preset-jolt]: https://www.npmjs.com/package/jest-preset-jolt
 [npm-jolt-cli]: https://www.npmjs.com/package/jolt-cli
+[npm-jolt-config]: https://www.npmjs.com/package/jolt-config
 [npm-jolt-core]: https://www.npmjs.com/package/jolt-core
 [npm-jolt-scripts]: https://www.npmjs.com/package/jolt-scripts
 
