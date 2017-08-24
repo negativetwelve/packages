@@ -63,6 +63,7 @@ Package | Version | Downloads
 [`jolt-config`][gh-jolt-config] | [![npm](https://img.shields.io/npm/v/jolt-config.svg)][npm-jolt-config] | [![npm](https://img.shields.io/npm/dt/jolt-config.svg)][npm-jolt-config]
 [`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
 [`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
+[`jolt-utils`][gh-jolt-utils] | [![npm](https://img.shields.io/npm/v/jolt-utils.svg)][npm-jolt-utils] | [![npm](https://img.shields.io/npm/dt/jolt-utils.svg)][npm-jolt-utils]
 
 [gh-babel-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/babel-preset-jolt
 [gh-eslint-config-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/eslint-config-jolt
@@ -71,6 +72,7 @@ Package | Version | Downloads
 [gh-jolt-config]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-config
 [gh-jolt-core]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-core
 [gh-jolt-scripts]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-scripts
+[gh-jolt-utils]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-utils
 
 [npm-babel-preset-jolt]: https://www.npmjs.com/package/babel-preset-jolt
 [npm-eslint-config-jolt]: https://www.npmjs.com/package/eslint-config-jolt
@@ -79,6 +81,7 @@ Package | Version | Downloads
 [npm-jolt-config]: https://www.npmjs.com/package/jolt-config
 [npm-jolt-core]: https://www.npmjs.com/package/jolt-core
 [npm-jolt-scripts]: https://www.npmjs.com/package/jolt-scripts
+[npm-jolt-utils]: https://www.npmjs.com/package/jolt-utils
 
 ### Jest Plugins
 
