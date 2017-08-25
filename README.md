@@ -3,8 +3,8 @@
 Contact  | Link
 ---------|-------
 Name     | Mark Miyashita
-Website  | [markmiyashita.com](http://markmiyashita.com)
 GitHub   | [@negativetwelve](https://github.com/negativetwelve)
+Website  | [markmiyashita.com](http://markmiyashita.com)
 LinkedIn | [linkedin.com/in/markmiyashita](https://linkedin.com/in/markmiyashita)
 
 ## Creator
@@ -62,6 +62,7 @@ Package | Version | Downloads
 [`jolt-cli`][gh-jolt-cli] | [![npm](https://img.shields.io/npm/v/jolt-cli.svg)][npm-jolt-cli] | [![npm](https://img.shields.io/npm/dt/jolt-cli.svg)][npm-jolt-cli]
 [`jolt-config`][gh-jolt-config] | [![npm](https://img.shields.io/npm/v/jolt-config.svg)][npm-jolt-config] | [![npm](https://img.shields.io/npm/dt/jolt-config.svg)][npm-jolt-config]
 [`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
+[`jolt-lodash`][gh-jolt-lodash] | [![npm](https://img.shields.io/npm/v/jolt-lodash.svg)][npm-jolt-lodash] | [![npm](https://img.shields.io/npm/dt/jolt-lodash.svg)][npm-jolt-lodash]
 [`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
 [`jolt-utils`][gh-jolt-utils] | [![npm](https://img.shields.io/npm/v/jolt-utils.svg)][npm-jolt-utils] | [![npm](https://img.shields.io/npm/dt/jolt-utils.svg)][npm-jolt-utils]
 
@@ -71,6 +72,7 @@ Package | Version | Downloads
 [gh-jolt-cli]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-cli
 [gh-jolt-config]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-config
 [gh-jolt-core]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-core
+[gh-jolt-lodash]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-lodash
 [gh-jolt-scripts]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-scripts
 [gh-jolt-utils]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-utils
 
@@ -80,6 +82,7 @@ Package | Version | Downloads
 [npm-jolt-cli]: https://www.npmjs.com/package/jolt-cli
 [npm-jolt-config]: https://www.npmjs.com/package/jolt-config
 [npm-jolt-core]: https://www.npmjs.com/package/jolt-core
+[npm-jolt-lodash]: https://www.npmjs.com/package/jolt-lodash
 [npm-jolt-scripts]: https://www.npmjs.com/package/jolt-scripts
 [npm-jolt-utils]: https://www.npmjs.com/package/jolt-utils
 
