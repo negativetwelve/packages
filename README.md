@@ -98,6 +98,7 @@ Package | Version | Downloads
 [`jest-plugin-unhandled-promise`][gh-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/v/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/dt/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise]
 [`jest-plugins`][gh-jest-plugins] | [![npm](https://img.shields.io/npm/v/jest-plugins.svg)][npm-jest-plugins] | [![npm](https://img.shields.io/npm/dt/jest-plugins.svg)][npm-jest-plugins]
 [`jest-plugins-recommended`][gh-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/v/jest-plugins-recommended.svg)][npm-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/dt/jest-plugins-recommended.svg)][npm-jest-plugins-recommended]
+[`jest-plugins-rspec`][gh-jest-plugins-rspec] | [![npm](https://img.shields.io/npm/v/jest-plugins-rspec.svg)][npm-jest-plugins-rspec] | [![npm](https://img.shields.io/npm/dt/jest-plugins-rspec.svg)][npm-jest-plugins-rspec]
 
 [gh-jest-plugin-action]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-action
 [gh-jest-plugin-console-matchers]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-console-matchers
@@ -107,6 +108,7 @@ Package | Version | Downloads
 [gh-jest-plugin-unhandled-promise]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-unhandled-promise
 [gh-jest-plugins]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins
 [gh-jest-plugins-recommended]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins-recommended
+[gh-jest-plugins-rspec]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins-rspec
 
 [npm-jest-plugin-action]: https://www.npmjs.com/package/jest-plugin-action
 [npm-jest-plugin-console-matchers]: https://www.npmjs.com/package/jest-plugin-console-matchers
@@ -116,6 +118,7 @@ Package | Version | Downloads
 [npm-jest-plugin-unhandled-promise]: https://www.npmjs.com/package/jest-plugin-unhandled-promise
 [npm-jest-plugins]: https://www.npmjs.com/package/jest-plugins
 [npm-jest-plugins-recommended]: https://www.npmjs.com/package/jest-plugins-recommended
+[npm-jest-plugins-rspec]: https://www.npmjs.com/package/jest-plugins-rspec
 
 ## Maintainer
 
