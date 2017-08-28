@@ -124,8 +124,8 @@ Package | Version | Downloads
 
 These are projects that I help maintain. This includes new features, new releases, and managing GitHub issues and pull requests.
 
-Package | Version | Downloads
---------|---------|----------
+Repo | Version | Downloads
+-----|---------|----------
 [`jadsonlourenco/react-native-shake-event`][gh-react-native-shake-event] | [![npm](https://img.shields.io/npm/v/react-native-shake-event.svg)][npm-react-native-shake-event] | [![npm](https://img.shields.io/npm/dt/react-native-shake-event.svg)][npm-react-native-shake-event]
 
 [gh-react-native-shake-event]: https://github.com/jadsonlourenco/react-native-shake-event
@@ -136,24 +136,24 @@ Package | Version | Downloads
 
 A few commits here or there, this helps me track open source projects I've contributed to.
 
-Package | Version
---------| -------
+Repo | Version
+-----| -------
 [`airbnb/javascript`][gh-airbnb-javascript] | N/A
 [`facebook/react-native`][gh-react-native] | [![npm](https://img.shields.io/npm/v/react-native.svg)][npm-react-native]
 [`facebook/react-native-fbsdk`][gh-react-native-fbsdk] | [![npm](https://img.shields.io/npm/v/react-native-fbsdk.svg)][npm-react-native-fbsdk]
 [`marcshilling/react-native-idle-timer`][gh-react-native-idle-timer] | [![npm](https://img.shields.io/npm/v/react-native-idle-timer.svg)][npm-react-native-idle-timer]
-[`tinycreative/react-native-intercom`][gh-react-native-intercom] | [![npm](https://img.shields.io/npm/v/react-native-intercom.svg)][npm-react-native-intercom]
 [`react-native-community/react-native-video`][gh-react-native-video] | [![npm](https://img.shields.io/npm/v/react-native-video.svg)][npm-react-native-video]
+[`tinycreative/react-native-intercom`][gh-react-native-intercom] | [![npm](https://img.shields.io/npm/v/react-native-intercom.svg)][npm-react-native-intercom]
 
 [gh-airbnb-javascript]: https://github.com/airbnb/javascript
 [gh-react-native]: https://github.com/facebook/react-native
 [gh-react-native-fbsdk]: https://github.com/facebook/react-native-fbsdk
 [gh-react-native-idle-timer]: https://github.com/marcshilling/react-native-idle-timer
-[gh-react-native-intercom]: https://github.com/tinycreative/react-native-intercom
 [gh-react-native-video]: https://github.com/react-native-community/react-native-video
+[gh-react-native-intercom]: https://github.com/tinycreative/react-native-intercom
 
 [npm-react-native]: https://www.npmjs.com/package/react-native
 [npm-react-native-fbsdk]: https://www.npmjs.com/package/react-native-fbsdk
 [npm-react-native-idle-timer]: https://www.npmjs.com/package/react-native-idle-timer
-[npm-react-native-intercom]: https://www.npmjs.com/package/react-native-intercom
 [npm-react-native-video]: https://www.npmjs.com/package/react-native-video
+[npm-react-native-intercom]: https://www.npmjs.com/package/react-native-intercom
