@@ -120,6 +120,19 @@ Package | Version | Downloads
 [npm-jest-plugins-recommended]: https://www.npmjs.com/package/jest-plugins-recommended
 [npm-jest-plugins-rspec]: https://www.npmjs.com/package/jest-plugins-rspec
 
+### Handy
+
+Package | Version | Downloads
+--------|---------|----------
+[`handy-datetime`][gh-handy-datetime] | [![npm](https://img.shields.io/npm/v/handy-datetime.svg)][npm-handy-datetime] | [![npm](https://img.shields.io/npm/dt/handy-datetime.svg)][npm-handy-datetime]
+[`handy-js`][gh-handy-js] | [![npm](https://img.shields.io/npm/v/handy-js.svg)][npm-handy-js] | [![npm](https://img.shields.io/npm/dt/handy-js.svg)][npm-handy-js]
+
+[gh-handy-datetime]: https://github.com/negativetwelve/handy/tree/master/packages/handy-datetime
+[gh-handy-js]: https://github.com/negativetwelve/handy/tree/master/packages/handy-js
+
+[npm-handy-datetime]: https://www.npmjs.com/package/handy-datetime
+[npm-handy-js]: https://www.npmjs.com/package/handy-js
+
 ## Maintainer
 
 These are projects that I help maintain. This includes new features, new releases, and managing GitHub issues and pull requests.
