@@ -93,30 +93,36 @@ Package | Version | Downloads
 [`jest-plugin-action`][gh-jest-plugin-action] | [![npm](https://img.shields.io/npm/v/jest-plugin-action.svg)][npm-jest-plugin-action] | [![npm](https://img.shields.io/npm/dt/jest-plugin-action.svg)][npm-jest-plugin-action]
 [`jest-plugin-console-matchers`][gh-jest-plugin-console-matchers] | [![npm](https://img.shields.io/npm/v/jest-plugin-console-matchers.svg)][npm-jest-plugin-console-matchers] | [![npm](https://img.shields.io/npm/dt/jest-plugin-console-matchers.svg)][npm-jest-plugin-console-matchers]
 [`jest-plugin-context`][gh-jest-plugin-context] | [![npm](https://img.shields.io/npm/v/jest-plugin-context.svg)][npm-jest-plugin-context] | [![npm](https://img.shields.io/npm/dt/jest-plugin-context.svg)][npm-jest-plugin-context]
+[`jest-plugin-it-renders`][gh-jest-plugin-it-renders] | [![npm](https://img.shields.io/npm/v/jest-plugin-it-renders.svg)][npm-jest-plugin-it-renders] | [![npm](https://img.shields.io/npm/dt/jest-plugin-it-renders.svg)][npm-jest-plugin-it-renders]
 [`jest-plugin-its`][gh-jest-plugin-its] | [![npm](https://img.shields.io/npm/v/jest-plugin-its.svg)][npm-jest-plugin-its] | [![npm](https://img.shields.io/npm/dt/jest-plugin-its.svg)][npm-jest-plugin-its]
 [`jest-plugin-set`][gh-jest-plugin-set] | [![npm](https://img.shields.io/npm/v/jest-plugin-set.svg)][npm-jest-plugin-set] | [![npm](https://img.shields.io/npm/dt/jest-plugin-set.svg)][npm-jest-plugin-set]
 [`jest-plugin-unhandled-promise`][gh-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/v/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/dt/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise]
 [`jest-plugins`][gh-jest-plugins] | [![npm](https://img.shields.io/npm/v/jest-plugins.svg)][npm-jest-plugins] | [![npm](https://img.shields.io/npm/dt/jest-plugins.svg)][npm-jest-plugins]
+[`jest-plugins-react`][gh-jest-plugins-react] | [![npm](https://img.shields.io/npm/v/jest-plugins-react.svg)][npm-jest-plugins-react] | [![npm](https://img.shields.io/npm/dt/jest-plugins-react.svg)][npm-jest-plugins-react]
 [`jest-plugins-recommended`][gh-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/v/jest-plugins-recommended.svg)][npm-jest-plugins-recommended] | [![npm](https://img.shields.io/npm/dt/jest-plugins-recommended.svg)][npm-jest-plugins-recommended]
 [`jest-plugins-rspec`][gh-jest-plugins-rspec] | [![npm](https://img.shields.io/npm/v/jest-plugins-rspec.svg)][npm-jest-plugins-rspec] | [![npm](https://img.shields.io/npm/dt/jest-plugins-rspec.svg)][npm-jest-plugins-rspec]
 
 [gh-jest-plugin-action]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-action
 [gh-jest-plugin-console-matchers]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-console-matchers
 [gh-jest-plugin-context]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-context
+[gh-jest-plugin-it-renders]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-it-renders
 [gh-jest-plugin-its]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-its
 [gh-jest-plugin-set]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-set
 [gh-jest-plugin-unhandled-promise]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-unhandled-promise
 [gh-jest-plugins]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins
+[gh-jest-plugins-react]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins-react
 [gh-jest-plugins-recommended]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins-recommended
 [gh-jest-plugins-rspec]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugins-rspec
 
 [npm-jest-plugin-action]: https://www.npmjs.com/package/jest-plugin-action
 [npm-jest-plugin-console-matchers]: https://www.npmjs.com/package/jest-plugin-console-matchers
 [npm-jest-plugin-context]: https://www.npmjs.com/package/jest-plugin-context
+[npm-jest-plugin-it-renders]: https://www.npmjs.com/package/jest-plugin-it-renders
 [npm-jest-plugin-its]: https://www.npmjs.com/package/jest-plugin-its
 [npm-jest-plugin-set]: https://www.npmjs.com/package/jest-plugin-set
 [npm-jest-plugin-unhandled-promise]: https://www.npmjs.com/package/jest-plugin-unhandled-promise
 [npm-jest-plugins]: https://www.npmjs.com/package/jest-plugins
+[npm-jest-plugins-react]: https://www.npmjs.com/package/jest-plugins-react
 [npm-jest-plugins-recommended]: https://www.npmjs.com/package/jest-plugins-recommended
 [npm-jest-plugins-rspec]: https://www.npmjs.com/package/jest-plugins-rspec
 
