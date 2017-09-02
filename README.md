@@ -131,13 +131,22 @@ Package | Version | Downloads
 Package | Version | Downloads
 --------|---------|----------
 [`handy-datetime`][gh-handy-datetime] | [![npm](https://img.shields.io/npm/v/handy-datetime.svg)][npm-handy-datetime] | [![npm](https://img.shields.io/npm/dt/handy-datetime.svg)][npm-handy-datetime]
+[`handy-duration`][gh-handy-duration] | [![npm](https://img.shields.io/npm/v/handy-duration.svg)][npm-handy-duration] | [![npm](https://img.shields.io/npm/dt/handy-duration.svg)][npm-handy-duration]
+[`handy-filesize`][gh-handy-filesize] | [![npm](https://img.shields.io/npm/v/handy-filesize.svg)][npm-handy-filesize] | [![npm](https://img.shields.io/npm/dt/handy-filesize.svg)][npm-handy-filesize]
 [`handy-js`][gh-handy-js] | [![npm](https://img.shields.io/npm/v/handy-js.svg)][npm-handy-js] | [![npm](https://img.shields.io/npm/dt/handy-js.svg)][npm-handy-js]
+[`handy-url`][gh-handy-url] | [![npm](https://img.shields.io/npm/v/handy-url.svg)][npm-handy-url] | [![npm](https://img.shields.io/npm/dt/handy-url.svg)][npm-handy-url]
 
 [gh-handy-datetime]: https://github.com/negativetwelve/handy/tree/master/packages/handy-datetime
+[gh-handy-duration]: https://github.com/negativetwelve/handy/tree/master/packages/handy-duration
+[gh-handy-filesize]: https://github.com/negativetwelve/handy/tree/master/packages/handy-filesize
 [gh-handy-js]: https://github.com/negativetwelve/handy/tree/master/packages/handy-js
+[gh-handy-url]: https://github.com/negativetwelve/handy/tree/master/packages/handy-url
 
 [npm-handy-datetime]: https://www.npmjs.com/package/handy-datetime
+[npm-handy-duration]: https://www.npmjs.com/package/handy-duration
+[npm-handy-filesize]: https://www.npmjs.com/package/handy-filesize
 [npm-handy-js]: https://www.npmjs.com/package/handy-js
+[npm-handy-url]: https://www.npmjs.com/package/handy-url
 
 ## Maintainer
 
