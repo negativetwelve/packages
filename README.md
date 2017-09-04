@@ -36,56 +36,6 @@ Package | Version | Downloads
 [npm-react-native-segment-io]: https://www.npmjs.com/package/react-native-segment-io
 [npm-react-native-ux-cam]: https://www.npmjs.com/package/react-native-ux-cam
 
-### React Native Package
-
-Package | Version | Downloads
---------|---------|----------
-[`react-native-module-check`][gh-react-native-module-check] | [![npm](https://img.shields.io/npm/v/react-native-module-check.svg)][npm-react-native-module-check] | [![npm](https://img.shields.io/npm/dt/react-native-module-check.svg)][npm-react-native-module-check]
-[`react-native-module-guard`][gh-react-native-module-guard] | [![npm](https://img.shields.io/npm/v/react-native-module-guard.svg)][npm-react-native-module-guard] | [![npm](https://img.shields.io/npm/dt/react-native-module-guard.svg)][npm-react-native-module-guard]
-[`react-native-package`][gh-react-native-package] | [![npm](https://img.shields.io/npm/v/react-native-package.svg)][npm-react-native-package] | [![npm](https://img.shields.io/npm/dt/react-native-package.svg)][npm-react-native-package]
-
-[gh-react-native-module-check]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-check
-[gh-react-native-module-guard]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-guard
-[gh-react-native-package]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-package
-
-[npm-react-native-module-check]: https://www.npmjs.com/package/react-native-module-check
-[npm-react-native-module-guard]: https://www.npmjs.com/package/react-native-module-guard
-[npm-react-native-package]: https://www.npmjs.com/package/react-native-package
-
-### Jolt
-
-Package | Version | Downloads
---------|---------|----------
-[`babel-preset-jolt`][gh-babel-preset-jolt] | [![npm](https://img.shields.io/npm/v/babel-preset-jolt.svg)][npm-babel-preset-jolt] | [![npm](https://img.shields.io/npm/dt/babel-preset-jolt.svg)][npm-babel-preset-jolt]
-[`eslint-config-jolt`][gh-eslint-config-jolt] | [![npm](https://img.shields.io/npm/v/eslint-config-jolt.svg)][npm-eslint-config-jolt] | [![npm](https://img.shields.io/npm/dt/eslint-config-jolt.svg)][npm-eslint-config-jolt]
-[`jest-preset-jolt`][gh-jest-preset-jolt] | [![npm](https://img.shields.io/npm/v/jest-preset-jolt.svg)][npm-jest-preset-jolt] | [![npm](https://img.shields.io/npm/dt/jest-preset-jolt.svg)][npm-jest-preset-jolt]
-[`jolt-cli`][gh-jolt-cli] | [![npm](https://img.shields.io/npm/v/jolt-cli.svg)][npm-jolt-cli] | [![npm](https://img.shields.io/npm/dt/jolt-cli.svg)][npm-jolt-cli]
-[`jolt-config`][gh-jolt-config] | [![npm](https://img.shields.io/npm/v/jolt-config.svg)][npm-jolt-config] | [![npm](https://img.shields.io/npm/dt/jolt-config.svg)][npm-jolt-config]
-[`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
-[`jolt-lodash`][gh-jolt-lodash] | [![npm](https://img.shields.io/npm/v/jolt-lodash.svg)][npm-jolt-lodash] | [![npm](https://img.shields.io/npm/dt/jolt-lodash.svg)][npm-jolt-lodash]
-[`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
-[`jolt-utils`][gh-jolt-utils] | [![npm](https://img.shields.io/npm/v/jolt-utils.svg)][npm-jolt-utils] | [![npm](https://img.shields.io/npm/dt/jolt-utils.svg)][npm-jolt-utils]
-
-[gh-babel-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/babel-preset-jolt
-[gh-eslint-config-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/eslint-config-jolt
-[gh-jest-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/jest-preset-jolt
-[gh-jolt-cli]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-cli
-[gh-jolt-config]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-config
-[gh-jolt-core]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-core
-[gh-jolt-lodash]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-lodash
-[gh-jolt-scripts]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-scripts
-[gh-jolt-utils]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-utils
-
-[npm-babel-preset-jolt]: https://www.npmjs.com/package/babel-preset-jolt
-[npm-eslint-config-jolt]: https://www.npmjs.com/package/eslint-config-jolt
-[npm-jest-preset-jolt]: https://www.npmjs.com/package/jest-preset-jolt
-[npm-jolt-cli]: https://www.npmjs.com/package/jolt-cli
-[npm-jolt-config]: https://www.npmjs.com/package/jolt-config
-[npm-jolt-core]: https://www.npmjs.com/package/jolt-core
-[npm-jolt-lodash]: https://www.npmjs.com/package/jolt-lodash
-[npm-jolt-scripts]: https://www.npmjs.com/package/jolt-scripts
-[npm-jolt-utils]: https://www.npmjs.com/package/jolt-utils
-
 ### Jest Plugins
 
 Package | Version | Downloads
@@ -131,6 +81,72 @@ Package | Version | Downloads
 [npm-jest-plugins-react]: https://www.npmjs.com/package/jest-plugins-react
 [npm-jest-plugins-recommended]: https://www.npmjs.com/package/jest-plugins-recommended
 [npm-jest-plugins-rspec]: https://www.npmjs.com/package/jest-plugins-rspec
+
+### React X
+
+Package | Version | Downloads
+--------|---------|----------
+[`react-x`][gh-react-x] | [![npm](https://img.shields.io/npm/v/react-x.svg)][npm-react-x] | [![npm](https://img.shields.io/npm/dt/react-x.svg)][npm-react-x]
+[`react-x-render`][gh-react-x-render] | [![npm](https://img.shields.io/npm/v/react-x-render.svg)][npm-react-x-render] | [![npm](https://img.shields.io/npm/dt/react-x-render.svg)][npm-react-x-render]
+[`react-x-switch`][gh-react-x-switch] | [![npm](https://img.shields.io/npm/v/react-x-switch.svg)][npm-react-x-switch] | [![npm](https://img.shields.io/npm/dt/react-x-switch.svg)][npm-react-x-switch]
+
+[gh-react-x]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x
+[gh-react-x-render]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x-render
+[gh-react-x-switch]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x-switch
+
+[npm-react-x]: https://www.npmjs.com/package/react-x
+[npm-react-x-render]: https://www.npmjs.com/package/react-x-render
+[npm-react-x-switch]: https://www.npmjs.com/package/react-x-switch
+
+### Jolt
+
+Package | Version | Downloads
+--------|---------|----------
+[`babel-preset-jolt`][gh-babel-preset-jolt] | [![npm](https://img.shields.io/npm/v/babel-preset-jolt.svg)][npm-babel-preset-jolt] | [![npm](https://img.shields.io/npm/dt/babel-preset-jolt.svg)][npm-babel-preset-jolt]
+[`eslint-config-jolt`][gh-eslint-config-jolt] | [![npm](https://img.shields.io/npm/v/eslint-config-jolt.svg)][npm-eslint-config-jolt] | [![npm](https://img.shields.io/npm/dt/eslint-config-jolt.svg)][npm-eslint-config-jolt]
+[`jest-preset-jolt`][gh-jest-preset-jolt] | [![npm](https://img.shields.io/npm/v/jest-preset-jolt.svg)][npm-jest-preset-jolt] | [![npm](https://img.shields.io/npm/dt/jest-preset-jolt.svg)][npm-jest-preset-jolt]
+[`jolt-cli`][gh-jolt-cli] | [![npm](https://img.shields.io/npm/v/jolt-cli.svg)][npm-jolt-cli] | [![npm](https://img.shields.io/npm/dt/jolt-cli.svg)][npm-jolt-cli]
+[`jolt-config`][gh-jolt-config] | [![npm](https://img.shields.io/npm/v/jolt-config.svg)][npm-jolt-config] | [![npm](https://img.shields.io/npm/dt/jolt-config.svg)][npm-jolt-config]
+[`jolt-core`][gh-jolt-core] | [![npm](https://img.shields.io/npm/v/jolt-core.svg)][npm-jolt-core] | [![npm](https://img.shields.io/npm/dt/jolt-core.svg)][npm-jolt-core]
+[`jolt-lodash`][gh-jolt-lodash] | [![npm](https://img.shields.io/npm/v/jolt-lodash.svg)][npm-jolt-lodash] | [![npm](https://img.shields.io/npm/dt/jolt-lodash.svg)][npm-jolt-lodash]
+[`jolt-scripts`][gh-jolt-scripts] | [![npm](https://img.shields.io/npm/v/jolt-scripts.svg)][npm-jolt-scripts] | [![npm](https://img.shields.io/npm/dt/jolt-scripts.svg)][npm-jolt-scripts]
+[`jolt-utils`][gh-jolt-utils] | [![npm](https://img.shields.io/npm/v/jolt-utils.svg)][npm-jolt-utils] | [![npm](https://img.shields.io/npm/dt/jolt-utils.svg)][npm-jolt-utils]
+
+[gh-babel-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/babel-preset-jolt
+[gh-eslint-config-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/eslint-config-jolt
+[gh-jest-preset-jolt]: https://github.com/negativetwelve/jolt/tree/master/packages/jest-preset-jolt
+[gh-jolt-cli]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-cli
+[gh-jolt-config]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-config
+[gh-jolt-core]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-core
+[gh-jolt-lodash]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-lodash
+[gh-jolt-scripts]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-scripts
+[gh-jolt-utils]: https://github.com/negativetwelve/jolt/tree/master/packages/jolt-utils
+
+[npm-babel-preset-jolt]: https://www.npmjs.com/package/babel-preset-jolt
+[npm-eslint-config-jolt]: https://www.npmjs.com/package/eslint-config-jolt
+[npm-jest-preset-jolt]: https://www.npmjs.com/package/jest-preset-jolt
+[npm-jolt-cli]: https://www.npmjs.com/package/jolt-cli
+[npm-jolt-config]: https://www.npmjs.com/package/jolt-config
+[npm-jolt-core]: https://www.npmjs.com/package/jolt-core
+[npm-jolt-lodash]: https://www.npmjs.com/package/jolt-lodash
+[npm-jolt-scripts]: https://www.npmjs.com/package/jolt-scripts
+[npm-jolt-utils]: https://www.npmjs.com/package/jolt-utils
+
+### React Native Package
+
+Package | Version | Downloads
+--------|---------|----------
+[`react-native-module-check`][gh-react-native-module-check] | [![npm](https://img.shields.io/npm/v/react-native-module-check.svg)][npm-react-native-module-check] | [![npm](https://img.shields.io/npm/dt/react-native-module-check.svg)][npm-react-native-module-check]
+[`react-native-module-guard`][gh-react-native-module-guard] | [![npm](https://img.shields.io/npm/v/react-native-module-guard.svg)][npm-react-native-module-guard] | [![npm](https://img.shields.io/npm/dt/react-native-module-guard.svg)][npm-react-native-module-guard]
+[`react-native-package`][gh-react-native-package] | [![npm](https://img.shields.io/npm/v/react-native-package.svg)][npm-react-native-package] | [![npm](https://img.shields.io/npm/dt/react-native-package.svg)][npm-react-native-package]
+
+[gh-react-native-module-check]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-check
+[gh-react-native-module-guard]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-guard
+[gh-react-native-package]: https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-package
+
+[npm-react-native-module-check]: https://www.npmjs.com/package/react-native-module-check
+[npm-react-native-module-guard]: https://www.npmjs.com/package/react-native-module-guard
+[npm-react-native-package]: https://www.npmjs.com/package/react-native-package
 
 ### Handy
 
