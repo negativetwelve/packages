@@ -87,14 +87,17 @@ Package | Version | Downloads
 Package | Version | Downloads
 --------|---------|----------
 [`react-x`][gh-react-x] | [![npm](https://img.shields.io/npm/v/react-x.svg)][npm-react-x] | [![npm](https://img.shields.io/npm/dt/react-x.svg)][npm-react-x]
+[`react-x-keychain`][gh-react-x-keychain] | [![npm](https://img.shields.io/npm/v/react-x-keychain.svg)][npm-react-x-keychain] | [![npm](https://img.shields.io/npm/dt/react-x-keychain.svg)][npm-react-x-keychain]
 [`react-x-render`][gh-react-x-render] | [![npm](https://img.shields.io/npm/v/react-x-render.svg)][npm-react-x-render] | [![npm](https://img.shields.io/npm/dt/react-x-render.svg)][npm-react-x-render]
 [`react-x-switch`][gh-react-x-switch] | [![npm](https://img.shields.io/npm/v/react-x-switch.svg)][npm-react-x-switch] | [![npm](https://img.shields.io/npm/dt/react-x-switch.svg)][npm-react-x-switch]
 
 [gh-react-x]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x
+[gh-react-x-keychain]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x-keychain
 [gh-react-x-render]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x-render
 [gh-react-x-switch]: https://github.com/negativetwelve/react-x/tree/master/packages/react-x-switch
 
 [npm-react-x]: https://www.npmjs.com/package/react-x
+[npm-react-x-keychain]: https://www.npmjs.com/package/react-x-keychain
 [npm-react-x-render]: https://www.npmjs.com/package/react-x-render
 [npm-react-x-switch]: https://www.npmjs.com/package/react-x-switch
 
