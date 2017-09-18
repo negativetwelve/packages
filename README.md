@@ -46,6 +46,7 @@ Package | Version | Downloads
 [`jest-plugin-for-each`][gh-jest-plugin-for-each] | [![npm](https://img.shields.io/npm/v/jest-plugin-for-each.svg)][npm-jest-plugin-for-each] | [![npm](https://img.shields.io/npm/dt/jest-plugin-for-each.svg)][npm-jest-plugin-for-each]
 [`jest-plugin-fs`][gh-jest-plugin-fs] | [![npm](https://img.shields.io/npm/v/jest-plugin-fs.svg)][npm-jest-plugin-fs] | [![npm](https://img.shields.io/npm/dt/jest-plugin-fs.svg)][npm-jest-plugin-fs]
 [`jest-plugin-it-renders`][gh-jest-plugin-it-renders] | [![npm](https://img.shields.io/npm/v/jest-plugin-it-renders.svg)][npm-jest-plugin-it-renders] | [![npm](https://img.shields.io/npm/dt/jest-plugin-it-renders.svg)][npm-jest-plugin-it-renders]
+[`jest-plugin-it-shallow-renders`][gh-jest-plugin-it-shallow-renders] | [![npm](https://img.shields.io/npm/v/jest-plugin-it-shallow-renders.svg)][npm-jest-plugin-it-shallow-renders] | [![npm](https://img.shields.io/npm/dt/jest-plugin-it-shallow-renders.svg)][npm-jest-plugin-it-shallow-renders]
 [`jest-plugin-its`][gh-jest-plugin-its] | [![npm](https://img.shields.io/npm/v/jest-plugin-its.svg)][npm-jest-plugin-its] | [![npm](https://img.shields.io/npm/dt/jest-plugin-its.svg)][npm-jest-plugin-its]
 [`jest-plugin-set`][gh-jest-plugin-set] | [![npm](https://img.shields.io/npm/v/jest-plugin-set.svg)][npm-jest-plugin-set] | [![npm](https://img.shields.io/npm/dt/jest-plugin-set.svg)][npm-jest-plugin-set]
 [`jest-plugin-unhandled-promise`][gh-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/v/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise] | [![npm](https://img.shields.io/npm/dt/jest-plugin-unhandled-promise.svg)][npm-jest-plugin-unhandled-promise]
@@ -60,6 +61,7 @@ Package | Version | Downloads
 [gh-jest-plugin-for-each]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-for-each
 [gh-jest-plugin-fs]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-fs
 [gh-jest-plugin-it-renders]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-it-renders
+[gh-jest-plugin-it-shallow-renders]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-it-shallow-renders
 [gh-jest-plugin-its]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-its
 [gh-jest-plugin-set]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-set
 [gh-jest-plugin-unhandled-promise]: https://github.com/negativetwelve/jest-plugins/tree/master/packages/jest-plugin-unhandled-promise
@@ -74,6 +76,7 @@ Package | Version | Downloads
 [npm-jest-plugin-for-each]: https://www.npmjs.com/package/jest-plugin-for-each
 [npm-jest-plugin-fs]: https://www.npmjs.com/package/jest-plugin-fs
 [npm-jest-plugin-it-renders]: https://www.npmjs.com/package/jest-plugin-it-renders
+[npm-jest-plugin-it-shallow-renders]: https://www.npmjs.com/package/jest-plugin-it-shallow-renders
 [npm-jest-plugin-its]: https://www.npmjs.com/package/jest-plugin-its
 [npm-jest-plugin-set]: https://www.npmjs.com/package/jest-plugin-set
 [npm-jest-plugin-unhandled-promise]: https://www.npmjs.com/package/jest-plugin-unhandled-promise
