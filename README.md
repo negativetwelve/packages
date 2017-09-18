@@ -155,23 +155,39 @@ Package | Version | Downloads
 
 Package | Version | Downloads
 --------|---------|----------
+[`handy-api`][gh-handy-api] | [![npm](https://img.shields.io/npm/v/handy-api.svg)][npm-handy-api] | [![npm](https://img.shields.io/npm/dt/handy-api.svg)][npm-handy-api]
 [`handy-datetime`][gh-handy-datetime] | [![npm](https://img.shields.io/npm/v/handy-datetime.svg)][npm-handy-datetime] | [![npm](https://img.shields.io/npm/dt/handy-datetime.svg)][npm-handy-datetime]
 [`handy-duration`][gh-handy-duration] | [![npm](https://img.shields.io/npm/v/handy-duration.svg)][npm-handy-duration] | [![npm](https://img.shields.io/npm/dt/handy-duration.svg)][npm-handy-duration]
 [`handy-filesize`][gh-handy-filesize] | [![npm](https://img.shields.io/npm/v/handy-filesize.svg)][npm-handy-filesize] | [![npm](https://img.shields.io/npm/dt/handy-filesize.svg)][npm-handy-filesize]
 [`handy-js`][gh-handy-js] | [![npm](https://img.shields.io/npm/v/handy-js.svg)][npm-handy-js] | [![npm](https://img.shields.io/npm/dt/handy-js.svg)][npm-handy-js]
 [`handy-url`][gh-handy-url] | [![npm](https://img.shields.io/npm/v/handy-url.svg)][npm-handy-url] | [![npm](https://img.shields.io/npm/dt/handy-url.svg)][npm-handy-url]
 
+[gh-handy-api]: https://github.com/negativetwelve/handy/tree/master/packages/handy-api
 [gh-handy-datetime]: https://github.com/negativetwelve/handy/tree/master/packages/handy-datetime
 [gh-handy-duration]: https://github.com/negativetwelve/handy/tree/master/packages/handy-duration
 [gh-handy-filesize]: https://github.com/negativetwelve/handy/tree/master/packages/handy-filesize
 [gh-handy-js]: https://github.com/negativetwelve/handy/tree/master/packages/handy-js
 [gh-handy-url]: https://github.com/negativetwelve/handy/tree/master/packages/handy-url
 
+[npm-handy-api]: https://www.npmjs.com/package/handy-api
 [npm-handy-datetime]: https://www.npmjs.com/package/handy-datetime
 [npm-handy-duration]: https://www.npmjs.com/package/handy-duration
 [npm-handy-filesize]: https://www.npmjs.com/package/handy-filesize
 [npm-handy-js]: https://www.npmjs.com/package/handy-js
 [npm-handy-url]: https://www.npmjs.com/package/handy-url
+
+### Digital Ocean
+
+Package | Version | Downloads
+--------|---------|----------
+[`digital-ocean`][gh-digital-ocean] | [![npm](https://img.shields.io/npm/v/digital-ocean.svg)][npm-digital-ocean] | [![npm](https://img.shields.io/npm/dt/digital-ocean.svg)][npm-digital-ocean]
+[`digital-ocean-cli`][gh-digital-ocean-cli] | [![npm](https://img.shields.io/npm/v/digital-ocean-cli.svg)][npm-digital-ocean-cli] | [![npm](https://img.shields.io/npm/dt/digital-ocean-cli.svg)][npm-digital-ocean-cli]
+
+[gh-digital-ocean]: https://github.com/negativetwelve/digital-ocean/tree/master/packages/digital-ocean
+[gh-digital-ocean-cli]: https://github.com/negativetwelve/digital-ocean/tree/master/packages/digital-ocean-cli
+
+[npm-digital-ocean]: https://www.npmjs.com/package/digital-ocean
+[npm-digital-ocean-cli]: https://www.npmjs.com/package/digital-ocean-cli
 
 ## Maintainer
 
